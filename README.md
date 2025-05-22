@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working at **[Prezo](https://prezo.app/)**, a company in the hospitality sector based in Spain  
+- 🔭 Currently working at **[Prezo](https://prezo.es/)**, a company in the hospitality sector based in Spain  
 - 🌱 Always learning and exploring better ways to build with **PHP, Laravel, JavaScript, and React**  
 - 💬 I enjoy sharing knowledge about **web development, clean code practices, and software architecture**  
 - 📫 Reach me at: **brunacci.cristian@gmail.com**  
@@ -29,9 +29,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepelado&show_icons=true&theme=default&count_private=true" alt="CristianBrunacci stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thepelado&show_icons=true&theme=default&count_private=true" alt="Cristian Brunacci stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepelado&layout=compact&theme=default" alt="CristianBrunacci top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepelado&layout=compact&theme=default" alt="Cristian Brunacci top langs" />
 </p>
 
 ---
