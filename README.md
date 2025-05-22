@@ -29,9 +29,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianBrunacci&show_icons=true&theme=default&count_private=true" alt="CristianBrunacci stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thepelado&show_icons=true&theme=default&count_private=true" alt="CristianBrunacci stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBrunacci&layout=compact&theme=default" alt="CristianBrunacci top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepelado&layout=compact&theme=default" alt="CristianBrunacci top langs" />
 </p>
 
 ---
