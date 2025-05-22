@@ -29,9 +29,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepelado&show_icons=true&theme=default&count_private=true" alt="Cristian Brunacci stats" />
+  <img src="https://github-readme-stats-5yd1.vercel.app/api?username=thepelado&show_icons=true&theme=dark&count_private=true&cache_seconds=60" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepelado&layout=compact&theme=default" alt="Cristian Brunacci top langs" />
+  <img src="https://github-readme-stats-5yd1.vercel.app/api/top-langs/?username=thepelado&layout=compact&theme=dark&cache_seconds=60" alt="Top languages" />
 </p>
 
 ---
