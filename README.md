@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cristian Brunacci</h1>
-<h3 align="center">Fullstack Developer at Prezo (Spain) | Passionate about building clean and efficient solutions</h3>
+<h3 align="center">Fullstack Developer | Passionate about building clean and efficient solutions</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working at **[Prezo](https://prezo.es/)**, a company in the hospitality sector based in Spain  
 - 🌱 Always learning and exploring better ways to build with **PHP, Laravel, JavaScript, and React**  
 - 💬 I enjoy sharing knowledge about **web development, clean code practices, and software architecture**  
 - 📫 Reach me at: **brunacci.cristian@gmail.com**  
